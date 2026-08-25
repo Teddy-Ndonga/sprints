@@ -11,3 +11,4 @@ A collection of focused Java exercises and mini-projects covering OOP, problem s
 | [Array Adder](./ArrayAdder/) | Concatenates two integer arrays |
 | [List Manipulator](./ListManipulator/) | Manipulates a list by removing, modifying, and adding elements |
 | [Array Modifier](./ArrayModifier/) | Removes elements from an ArrayList between two indexes |
+| [String Concatenator](./StringConcatenator/) | Concatenates a variable number of strings |
