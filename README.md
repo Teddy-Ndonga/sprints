@@ -38,3 +38,4 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | Exercise | Description |
 |---|---|
 | [Area Calculator](./AreaCalculator/) | Calculates areas using method overloading |
+| [Prime Finder](./PrimeFinder/) | Finds prime numbers up to a given limit |
