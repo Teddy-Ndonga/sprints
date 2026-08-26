@@ -43,3 +43,4 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Weekend Calculator](./WeekendCalculator/) | Counts weekend days between two dates |
 | [Palindrome Checker](./PalindromeChecker/) | Checks whether a string is a palindrome |
 | [Anagram Checker](./AnagramChecker/) | Checks whether two strings contain the same characters in any order |
+| [Calendar Builder](./CalendarBuilder/) | Generates a formatted monthly calendar |
