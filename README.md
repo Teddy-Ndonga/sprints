@@ -28,6 +28,7 @@ The exercises are grouped by the Java concept or subtopic they cover.
 |---|---|
 | [Is Negative?](./IsNegative/) | Checks whether an integer is negative using an if statement |
 | [Positive Even](./PositiveEven/) | Checks whether an integer is both positive and even |
+| [Number Comparator](./NumberComparator/) | Compares an integer and a floating-point number |
 
 ## Lists of Things
 
