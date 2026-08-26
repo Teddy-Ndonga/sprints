@@ -22,6 +22,13 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Sign Post](./SignPost/) | Calculates the area of a rectangle that can contain a multi-line string |
 | [Text Statistics Calculator](./TextStats/) | Counts letters, digits, and spaces in a string |
 
+## Second Grade Java
+
+| Exercise | Description |
+|---|---|
+| [Is Negative?](./IsNegative/) | Checks whether an integer is negative using an if statement |
+
+
 ## Lists of Things
 
 | Exercise | Description |
