@@ -32,3 +32,9 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Word Length Analyzer](./WordLengthAnalyzer/) | Groups and counts words by their length using streams |
 | [Custom Iterator](./CustomIterator/) | Implements a custom iterator for sequential access to a list |
 | [Number Filter](./NumberFilter/) | Generates, filters, sorts, and analyzes random numbers |
+
+## String Theory
+
+| Exercise | Description |
+|---|---|
+| [Area Calculator](./AreaCalculator/) | Calculates areas using method overloading |
