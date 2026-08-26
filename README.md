@@ -29,3 +29,4 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Username Processor](./UsernameProcessor/) | Finds the first username using streams and Optional |
 | [Email Domain Extractor](./EmailDomainExtractor/) | Extracts unique lowercase domains from email addresses using streams |
 | [Number Processor](./NumberProcessor/) | Filters numbers and calculates their product using streams and reduce |
+| [Word Length Analyzer](./WordLengthAnalyzer/) | Groups and counts words by their length using streams |
