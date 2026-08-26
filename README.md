@@ -32,6 +32,7 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Basic Calculator](./BasicCalc/) | Performs basic arithmetic operations using a switch statement |
 | [Between Limits](./BetweenLimits/) | Returns the characters between two character limits |
 | [Number Printer](./NumberPrinter/) | Prints numbers from zero to a given integer |
+| [Accumulator](./Accumulator/) | Calculates the sum of all numbers from zero to a given integer |
 
 ## Lists of Things
 
