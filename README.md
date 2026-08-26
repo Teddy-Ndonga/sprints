@@ -6,6 +6,12 @@ A collection of focused Java exercises and mini-projects covering OOP, problem s
 
 The exercises are grouped by the Java concept or subtopic they cover.
 
+## First Grade Java
+
+| Exercise | Description |
+|---|---|
+| [Give Me Three](./GiveMeThree/) | Implements a simple method that returns the integer 3 |
+
 ## Lists of Things
 
 | Exercise | Description |
