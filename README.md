@@ -25,3 +25,4 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | Exercise | Description |
 |---|---|
 | [Stream Police](./StreamPolice/) | Processes a list of integers using Java Streams |
+| [String To Int Converter](./StringToIntConverter/) | Converts a list of numeric strings into integers using streams |
