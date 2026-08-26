@@ -53,3 +53,4 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Fibonacci](./Fibonacci/) | Calculates Fibonacci numbers using recursion |
 | [GCD Recursive](./GCDRecursive/) | Calculates the greatest common divisor using recursive Euclidean algorithm |
 | [Recursive Palindrome](./RecursivePalindrome/) | Checks whether a string is a palindrome using recursion |
+| [Occurrence Counter](./OccurrenceCounter/) | Counts occurrences of an element in an array recursively |
