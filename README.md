@@ -43,6 +43,7 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Divisor Discovery](./SmallestDivisor/) | Finds the smallest divisor of a number |
 | [Digit Digger](./DigitSum/) | Calculates the sum of all digits in a number |
 | [Letter Lens](./CharCounter/) | Counts occurrences of a character in a string |
+| [Prime Finder](./PrimeChecker/) | Determines whether a number is prime |
 
 ## Lists of Things
 
