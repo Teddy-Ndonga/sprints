@@ -13,6 +13,7 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Give Me Three](./GiveMeThree/) | Implements a simple method that returns the integer 3 |
 | [Calculator](./Calculator/) | Adds two integers using a simple Java method |
 | [Float Minus Int](./FloatMinusInt/) | Practices implicit and explicit casting between double and int |
+| [Average Calculator](./AverageCalculator/) | Calculates the average of three floating-point numbers |
 
 ## Lists of Things
 
