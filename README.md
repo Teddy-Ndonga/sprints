@@ -17,6 +17,8 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Multiply and Tell](./MultiplyAndTell/) | Multiplies an integer by two and returns the result as a formatted string |
 | [StrConcat](./StrConcat/) | Concatenates two strings with a specified delimiter |
 | [Greeting Card](./GreetingCard/) | Creates a formatted multi-line greeting card |
+| [Ascii Adder](./AsciiAdder/) | Adds an integer value to a character using character arithmetic |
+
 
 ## Lists of Things
 
