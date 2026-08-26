@@ -4,6 +4,10 @@ A collection of focused Java exercises and mini-projects covering OOP, problem s
 
 ## Exercises
 
+The exercises are grouped by the Java concept or subtopic they cover.
+
+## Lists of Things
+
 | Exercise | Description |
 |---|---|
 | [Array Initializer](./ArrayInitializer/) | Creates and populates an integer array |
@@ -15,3 +19,9 @@ A collection of focused Java exercises and mini-projects covering OOP, problem s
 | [Array Filter](./ArrayFilter/) | Filters rows from a 2D array based on their sum |
 | [Combinations](./Combinations/) | Generates combinations of ascending digits |
 | [Transformer](./Transformer/) | Transforms an array through multiple sequential operations |
+
+## Streams
+
+| Exercise | Description |
+|---|---|
+| [Stream Police](./StreamPolice/) | Processes a list of integers using Java Streams |
