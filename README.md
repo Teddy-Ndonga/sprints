@@ -50,3 +50,4 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | Exercise | Description |
 |---|---|
 | [Factorial](./Factorial/) | Calculates the factorial of an integer using recursion |
+| [Fibonacci](./Fibonacci/) | Calculates Fibonacci numbers using recursion |
