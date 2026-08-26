@@ -1,0 +1,25 @@
+package PalindromeChecker;
+
+public class PalindromeChecker {
+
+    public static boolean isPalindrome(String input) {
+
+        // Remove spaces and punctuation, convert to lowercase
+        String cleaned = input.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
+
+        int left = 0;
+        int right = cleaned.length() - 1;
+
+        while (left < right) {
+
+            if (cleaned.charAt(left) != cleaned.charAt(right)) {
+                return false;
+            }
+
+            left++;
+            right--;
+        }
+
+        return true;
+    }
+}
