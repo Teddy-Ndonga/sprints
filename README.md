@@ -40,7 +40,7 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | Exercise | Description |
 |---|---|
 | [Power Calculator](./PowerCalculator/) | Calculates a base raised to an exponent |
-
+| [Divisor Discovery](./SmallestDivisor/) | Finds the smallest divisor of a number |
 
 ## Lists of Things
 
