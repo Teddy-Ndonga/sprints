@@ -27,3 +27,4 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Stream Police](./StreamPolice/) | Processes a list of integers using Java Streams |
 | [String To Int Converter](./StringToIntConverter/) | Converts a list of numeric strings into integers using streams |
 | [Username Processor](./UsernameProcessor/) | Finds the first username using streams and Optional |
+| [Email Domain Extractor](./EmailDomainExtractor/) | Extracts unique lowercase domains from email addresses using streams |
