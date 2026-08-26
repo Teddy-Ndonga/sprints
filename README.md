@@ -40,3 +40,4 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Area Calculator](./AreaCalculator/) | Calculates areas using method overloading |
 | [Prime Finder](./PrimeFinder/) | Finds prime numbers up to a given limit |
 | [Day Checker](./DayChecker/) | Determines whether a date is a weekday, weekend, or Wednesday |
+| [Weekend Calculator](./WeekendCalculator/) | Counts weekend days between two dates |
