@@ -20,7 +20,7 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Ascii Adder](./AsciiAdder/) | Adds an integer value to a character using character arithmetic |
 | [Reverse Letter](./ReverseLetter/) | Reverses a lowercase letter's position in the alphabet |
 | [Sign Post](./SignPost/) | Calculates the area of a rectangle that can contain a multi-line string |
-
+| [Text Statistics Calculator](./TextStats/) | Counts letters, digits, and spaces in a string |
 
 ## Lists of Things
 
