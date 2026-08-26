@@ -16,6 +16,7 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Average Calculator](./AverageCalculator/) | Calculates the average of three floating-point numbers |
 | [Multiply and Tell](./MultiplyAndTell/) | Multiplies an integer by two and returns the result as a formatted string |
 | [StrConcat](./StrConcat/) | Concatenates two strings with a specified delimiter |
+| [Greeting Card](./GreetingCard/) | Creates a formatted multi-line greeting card |
 
 ## Lists of Things
 
