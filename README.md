@@ -52,3 +52,4 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Factorial](./Factorial/) | Calculates the factorial of an integer using recursion |
 | [Fibonacci](./Fibonacci/) | Calculates Fibonacci numbers using recursion |
 | [GCD Recursive](./GCDRecursive/) | Calculates the greatest common divisor using recursive Euclidean algorithm |
+| [Recursive Palindrome](./RecursivePalindrome/) | Checks whether a string is a palindrome using recursion |
