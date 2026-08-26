@@ -41,6 +41,7 @@ The exercises are grouped by the Java concept or subtopic they cover.
 |---|---|
 | [Power Calculator](./PowerCalculator/) | Calculates a base raised to an exponent |
 | [Divisor Discovery](./SmallestDivisor/) | Finds the smallest divisor of a number |
+| [Digit Digger](./DigitSum/) | Calculates the sum of all digits in a number |
 
 ## Lists of Things
 
