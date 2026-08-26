@@ -18,6 +18,7 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [StrConcat](./StrConcat/) | Concatenates two strings with a specified delimiter |
 | [Greeting Card](./GreetingCard/) | Creates a formatted multi-line greeting card |
 | [Ascii Adder](./AsciiAdder/) | Adds an integer value to a character using character arithmetic |
+| [Reverse Letter](./ReverseLetter/) | Reverses a lowercase letter's position in the alphabet |
 
 
 ## Lists of Things
