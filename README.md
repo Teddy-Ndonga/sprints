@@ -14,6 +14,7 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Calculator](./Calculator/) | Adds two integers using a simple Java method |
 | [Float Minus Int](./FloatMinusInt/) | Practices implicit and explicit casting between double and int |
 | [Average Calculator](./AverageCalculator/) | Calculates the average of three floating-point numbers |
+| [Multiply and Tell](./MultiplyAndTell/) | Multiplies an integer by two and returns the result as a formatted string |
 
 ## Lists of Things
 
