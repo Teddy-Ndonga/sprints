@@ -35,6 +35,13 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Accumulator](./Accumulator/) | Calculates the sum of all numbers from zero to a given integer |
 | [Basic FizzBuzz](./BasicFizzBuzz/) | Returns Fizz, Buzz, FizzBuzz, or the number based on divisibility |
 
+## Micro Problems
+
+| Exercise | Description |
+|---|---|
+| [Power Calculator](./PowerCalculator/) | Calculates a base raised to an exponent |
+
+
 ## Lists of Things
 
 | Exercise | Description |
