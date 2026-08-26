@@ -55,3 +55,9 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Recursive Palindrome](./RecursivePalindrome/) | Checks whether a string is a palindrome using recursion |
 | [Occurrence Counter](./OccurrenceCounter/) | Counts occurrences of an element in an array recursively |
 | [Parentheses Balance Checker](./ParenthesesBalanceChecker/) | Checks whether parentheses are balanced recursively |
+
+## Big Problems
+
+| Exercise | Description |
+|---|---|
+| [Weather Station](./WeatherStation/) | Maintains and updates weather station telemetry state |
