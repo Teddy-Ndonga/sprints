@@ -30,6 +30,7 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Positive Even](./PositiveEven/) | Checks whether an integer is both positive and even |
 | [Number Comparator](./NumberComparator/) | Compares an integer and a floating-point number |
 | [Basic Calculator](./BasicCalc/) | Performs basic arithmetic operations using a switch statement |
+| [Between Limits](./BetweenLimits/) | Returns the characters between two character limits |
 
 ## Lists of Things
 
