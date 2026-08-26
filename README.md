@@ -45,6 +45,8 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Letter Lens](./CharCounter/) | Counts occurrences of a character in a string |
 | [Prime Finder](./PrimeChecker/) | Determines whether a number is prime |
 | [Word Counter](./WordCounter/) | Counts words in a sentence based on sequences of letters |
+| [GCD Calculator](./GCDCalculator/) | Calculates the greatest common divisor of two integers using the Euclidean algorithm |
+
 
 ## Lists of Things
 
