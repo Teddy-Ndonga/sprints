@@ -19,6 +19,7 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Greeting Card](./GreetingCard/) | Creates a formatted multi-line greeting card |
 | [Ascii Adder](./AsciiAdder/) | Adds an integer value to a character using character arithmetic |
 | [Reverse Letter](./ReverseLetter/) | Reverses a lowercase letter's position in the alphabet |
+| [Sign Post](./SignPost/) | Calculates the area of a rectangle that can contain a multi-line string |
 
 
 ## Lists of Things
