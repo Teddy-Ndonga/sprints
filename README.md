@@ -31,3 +31,4 @@ The exercises are grouped by the Java concept or subtopic they cover.
 | [Number Processor](./NumberProcessor/) | Filters numbers and calculates their product using streams and reduce |
 | [Word Length Analyzer](./WordLengthAnalyzer/) | Groups and counts words by their length using streams |
 | [Custom Iterator](./CustomIterator/) | Implements a custom iterator for sequential access to a list |
+| [Number Filter](./NumberFilter/) | Generates, filters, sorts, and analyzes random numbers |
