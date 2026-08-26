@@ -12,3 +12,4 @@ A collection of focused Java exercises and mini-projects covering OOP, problem s
 | [List Manipulator](./ListManipulator/) | Manipulates a list by removing, modifying, and adding elements |
 | [Array Modifier](./ArrayModifier/) | Removes elements from an ArrayList between two indexes |
 | [String Concatenator](./StringConcatenator/) | Concatenates a variable number of strings |
+| [Array Filter](./ArrayFilter/) | Filters rows from a 2D array based on their sum |
