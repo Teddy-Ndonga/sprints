@@ -13,3 +13,4 @@ A collection of focused Java exercises and mini-projects covering OOP, problem s
 | [Array Modifier](./ArrayModifier/) | Removes elements from an ArrayList between two indexes |
 | [String Concatenator](./StringConcatenator/) | Concatenates a variable number of strings |
 | [Array Filter](./ArrayFilter/) | Filters rows from a 2D array based on their sum |
+| [Combinations](./Combinations/) | Generates combinations of ascending digits |
